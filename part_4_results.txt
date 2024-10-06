@@ -1,0 +1,17 @@
+Optimal Servings Per Week:
+Eggs = 136.90 servings
+HashBrowns = 76.81 servings
+Yogurt = 20.21 servings
+CobbSalad = 1.00 servings
+CannedTuna = 1.00 servings
+
+Total Cost = $126.26 per week
+
+Total Nutrient Intake Over the Week:
+Calories: 21939.70 kcal (Weekly Requirement: 14000 kcal)
+Protein: 1127.33 g (Weekly Requirement: 350 g)
+Vitamin D: 140.00 mcg (Weekly Requirement: 140 mcg)
+Calcium: 9100.00 mg (Weekly Requirement: 9100 mg)
+Iron: 169.60 mg (Weekly Requirement: 126 mg)
+Potassium: 32900.00 mg (Weekly Requirement: 32900 mg)
+Sodium: 30999.63 mg (Weekly Limit: 35000 mg)
